@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605123245202",
+    "firebase_url": "https://uniquiz-1b245-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uniquiz-1b245",
+    "storage_bucket": "uniquiz-1b245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605123245202:android:753b3dd3c068759fdd624b",
+        "android_client_info": {
+          "package_name": "com.example.osteriamadonna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605123245202-n21s4dghl93i560k6mg4fietv26ro4f9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4JTw2IrqCe2_nATZvKR39zmkTvYqUo98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605123245202-n21s4dghl93i560k6mg4fietv26ro4f9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605123245202-gn8fb95v8tv973mkt11hfa20p76r94nq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.osteriamadonna"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
